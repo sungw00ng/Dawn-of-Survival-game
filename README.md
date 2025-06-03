@@ -3,9 +3,12 @@
 
 <img src="https://github.com/user-attachments/assets/ec6b12a1-c519-43d0-a42c-cdabb6311bd4" width="700"/><br>
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/d7db94ae-c70f-4c87-ba62-4e8fd39fbed3" /> <br>
-<img width="700" alt="Image" src="https://github.com/user-attachments/assets/a486b93b-c30e-4315-9f59-4ec71992d587" /><br>
 
 - SF 배경의 좀비 아포칼립스 게임을 제작 중이다.
+
+
+## MAP(Top View)
+<img width="700" alt="Image" src="https://github.com/user-attachments/assets/a486b93b-c30e-4315-9f59-4ec71992d587" /><br>
 
 ## Assets
 ### Gun
@@ -26,3 +29,5 @@
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/41e1c0d6-cb09-40c8-928b-c4abe0eb18e2" /><br>
 
 - Mixamo에서 .fbx파일로 변환 후에 이미 rig가 있는 캐릭터에 한해서는 애니메이션 동작을 만들어준다는 점에서 큰 도움을 받고 있다. <br>
+
+
