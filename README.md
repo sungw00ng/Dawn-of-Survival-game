@@ -24,7 +24,8 @@
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/6d366fb9-36df-4e47-8b33-ad9ea44b6ec0" /><br>
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/41e1c0d6-cb09-40c8-928b-c4abe0eb18e2" /><br>
 
-- Mixamo에서 .fbx파일로 변환 후에 이미 rig가 있는 캐릭터에 한해서는 애니메이션 동작을 만들어준다는 점에서 큰 도움을 받고 있다. <br>
+- Mixamo에서 .fbx파일로 변환 후에 이미 rig가 있는 캐릭터에 한해서는 <br>
+애니메이션 동작을 만들어준다는 점에서 큰 도움을 받고 있다. <br>
 
 ## Assets
 ### Gun
