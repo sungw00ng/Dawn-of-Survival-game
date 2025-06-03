@@ -39,5 +39,3 @@
 ### Character
 [Low Poly Medieval Characters Lite](https://assetstore.unity.com/packages/3d/characters/humanoids/low-poly-medieval-characters-lite-316247)
 
-- 모든 에셋은 무료로만 다운받는다.
-
