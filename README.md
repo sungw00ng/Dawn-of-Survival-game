@@ -39,3 +39,6 @@
 ### Character
 [Low Poly Medieval Characters Lite](https://assetstore.unity.com/packages/3d/characters/humanoids/low-poly-medieval-characters-lite-316247)
 
+### Sound
+[M4 돌격소총 사격, 장전](https://assetstore.unity.com/packages/3d/props/guns/stylized-m4-assault-rifle-with-scope-complete-kit-with-gunshot-v-178197)
+
