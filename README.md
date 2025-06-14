@@ -58,6 +58,6 @@
 ### Sound
 [M4 돌격소총 사격, 장전](https://assetstore.unity.com/packages/3d/props/guns/stylized-m4-assault-rifle-with-scope-complete-kit-with-gunshot-v-178197)
 
-## Enemy(Mixamo)
+### Enemy(Mixamo)
 - [Mutant](www.mixamo.com)
 
