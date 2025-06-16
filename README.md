@@ -13,6 +13,10 @@
 ## MAP (구상안)
 <image src="https://github.com/user-attachments/assets/18b2c80c-a202-4d26-8088-bf4c2f73427d" width="600"/><br>
 
+### MAP 1단계
+- 타일 깔기
+<img width="600" alt="스크린샷 2025-06-16 오후 5 28 15" src="https://github.com/user-attachments/assets/405e0f23-1369-4c3a-9759-39f2693530bd" /><br>
+
 
 - 빨간 원: Enemy Spown Point
 - 녹색 원: Start Point
@@ -42,6 +46,13 @@
 <image src="https://github.com/user-attachments/assets/b50c381b-baa3-4119-8ef9-536c321fb661" width="400"/><br>
 
 
+## Object
+### 탄약 상자
+<img width="500" alt="탄약상자" src="https://github.com/user-attachments/assets/3f1eae91-0c3f-4a34-8161-5ce0824aa97f" /><br>
+<img width="500" alt="탄약상자2" src="https://github.com/user-attachments/assets/c8b4cf84-2274-4d23-89b9-ac64d3616a75" /><br>
+
+- 현재 사용 가능한 탄약이 100 오른다.
+- E 키를 눌러 상호 작용 후 탄약 상자 오브젝트가 파괴됨.
 
 ## Assets
 ### Gun
