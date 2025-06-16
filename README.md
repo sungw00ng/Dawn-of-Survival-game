@@ -12,18 +12,14 @@
 
 ## MAP (구상안)
 <image src="https://github.com/user-attachments/assets/18b2c80c-a202-4d26-8088-bf4c2f73427d" width="600"/><br>
-
-### MAP 1단계
-- 타일 깔기
-<img width="600" alt="스크린샷 2025-06-16 오후 5 28 15" src="https://github.com/user-attachments/assets/405e0f23-1369-4c3a-9759-39f2693530bd" /><br>
-
-
 - 빨간 원: Enemy Spown Point
 - 녹색 원: Start Point
 
 
-### 현재 맵 (Top View)
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/a486b93b-c30e-4315-9f59-4ec71992d587" /><br>
+### MAP 1단계
+- 타일 깔기 <br>
+<img width="600" alt="스크린샷 2025-06-16 오후 5 28 15" src="https://github.com/user-attachments/assets/405e0f23-1369-4c3a-9759-39f2693530bd" /><br>
+
 
 ## player
 ### player-move
