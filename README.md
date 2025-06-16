@@ -11,7 +11,8 @@
 
 
 ## MAP (구상안)
-<image src="https://github.com/user-attachments/assets/18b2c80c-a202-4d26-8088-bf4c2f73427d" width="600"/><br>
+<img src="https://github.com/user-attachments/assets/b08ec9aa-6e3c-4c8c-928e-9a33a186a5e2" width="600"/><br>
+- 암시장: 금 사용처 (탄약, 주사기, 수류탄, 더 좋은 무기 등등)
 - 빨간 원: Enemy Spown Point
 - 녹색 원: Start Point
 
