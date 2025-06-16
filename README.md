@@ -7,7 +7,7 @@
 - SF 배경의 좀비 아포칼립스 게임을 제작 중이다.
 
 ## 시나리오 및 오브젝트 기획안
-- [개발노트v2](https://github.com/sungw00ng/Dawn-of-Survival-game/blob/main/%EA%B0%9C%EB%B0%9C%20%EB%85%B8%ED%8A%B8.md) <br>
+- [개발노트v2](https://github.com/sungw00ng/Dawn-of-Survival-game/blob/main/%EA%B0%9C%EB%B0%9C%20%EB%85%B8%ED%8A%B8v2.md) <br>
 
 
 ## MAP (구상안)
