@@ -1,4 +1,4 @@
-![map](https://github.com/user-attachments/assets/ad371b4b-035a-40cb-993d-565c5fce089f)![map](https://github.com/user-attachments/assets/ad371b4b-035a-40cb-993d-565c5fce089f)# Dawn-of-Survival-game
+# Dawn-of-Survival-game
 - Unity와 AI를 활용한 3D 좀비 아포칼립스 게임 <br>
 
 <img src="https://github.com/user-attachments/assets/ec6b12a1-c519-43d0-a42c-cdabb6311bd4" width="700"/><br>
@@ -69,5 +69,8 @@
 [M4 돌격소총 사격, 장전](https://assetstore.unity.com/packages/3d/props/guns/stylized-m4-assault-rifle-with-scope-complete-kit-with-gunshot-v-178197)
 
 ### Enemy(Mixamo)
-- [Mutant](www.mixamo.com)
-
+- Mutant(Boss)
+- Zombiegirl W Kurniawan(금발 좀비)
+- Yaku J Ignite(사무라이 좀비)
+- Romero(일반 좀비)
+- Whiteclown N Hallin(신사 좀비)
